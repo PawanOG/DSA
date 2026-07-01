@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/PawanOG/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PawanOG/DSA/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/PawanOG/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/PawanOG/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/PawanOG/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/PawanOG/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -41,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/PawanOG/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/PawanOG/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
