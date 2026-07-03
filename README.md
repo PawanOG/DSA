@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/PawanOG/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PawanOG/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/PawanOG/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -67,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/PawanOG/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PawanOG/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 <!---LeetCode Topics End-->
