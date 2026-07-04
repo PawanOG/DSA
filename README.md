@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/PawanOG/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/PawanOG/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PawanOG/DSA/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2947-count-beautiful-substrings-i](https://github.com/PawanOG/DSA/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/PawanOG/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PawanOG/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/PawanOG/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2947-count-beautiful-substrings-i](https://github.com/PawanOG/DSA/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PawanOG/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/PawanOG/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/PawanOG/DSA/tree/main/1922-count-good-numbers/) | Medium |
+| [2947-count-beautiful-substrings-i](https://github.com/PawanOG/DSA/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +97,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/PawanOG/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/PawanOG/DSA/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/PawanOG/DSA/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/PawanOG/DSA/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 <!---LeetCode Topics End-->
