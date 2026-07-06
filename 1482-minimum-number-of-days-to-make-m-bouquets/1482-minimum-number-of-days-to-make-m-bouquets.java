@@ -9,7 +9,7 @@ class Solution {
         int startDay = bloomDay[0];
         int lastDay = bloomDay[0];
 
-        // binary search apply krne ke liye hame ek range chiye hogi so we can take the min day and  the maxday of last bloom of a flower and we can find a day between agar hame required adjacent flowers bloom hote milre h to 
+        // binary search apply krne ke liye hame ek range chiye hogi so we can take the min day and  the maxday of bloom of a flower and we can find a day between agar hame required adjacent flowers bloom hote milre h to 
         for (int i = 1; i < bloomDay.length; i++) {
             startDay = Math.min(startDay, bloomDay[i]);
             lastDay = Math.max(lastDay, bloomDay[i]);
