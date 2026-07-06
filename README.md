@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PawanOG/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/PawanOG/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PawanOG/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PawanOG/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PawanOG/DSA/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PawanOG/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PawanOG/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PawanOG/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
