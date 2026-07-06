@@ -3,7 +3,7 @@ class Solution {
 
         int start = 1;
 
-        // Find the maximum element
+        
         int end = nums[0];
         for (int i = 1; i < nums.length; i++) {
             end = Math.max(end, nums[i]);
