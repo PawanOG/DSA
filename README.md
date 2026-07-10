@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PawanOG/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/PawanOG/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PawanOG/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0169-majority-element](https://github.com/PawanOG/DSA/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/PawanOG/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PawanOG/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PawanOG/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/PawanOG/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/PawanOG/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/PawanOG/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0169-majority-element](https://github.com/PawanOG/DSA/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/PawanOG/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/PawanOG/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/PawanOG/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -34,12 +36,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/PawanOG/DSA/tree/main/0018-4sum/) | Medium |
+| [0169-majority-element](https://github.com/PawanOG/DSA/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/PawanOG/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/PawanOG/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PawanOG/DSA/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/PawanOG/DSA/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/PawanOG/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PawanOG/DSA/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## String
@@ -163,4 +167,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/PawanOG/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/PawanOG/DSA/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
