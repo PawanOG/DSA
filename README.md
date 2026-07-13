@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/PawanOG/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/PawanOG/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/PawanOG/DSA/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/PawanOG/DSA/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/PawanOG/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/PawanOG/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/PawanOG/DSA/tree/main/0229-majority-element-ii/) | Medium |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/PawanOG/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/PawanOG/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/PawanOG/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0202-happy-number](https://github.com/PawanOG/DSA/tree/main/0202-happy-number/) | Easy |
 | [0567-permutation-in-string](https://github.com/PawanOG/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/PawanOG/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Math
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/PawanOG/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/PawanOG/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/PawanOG/DSA/tree/main/0050-powx-n/) | Medium |
+| [0202-happy-number](https://github.com/PawanOG/DSA/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/PawanOG/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PawanOG/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/PawanOG/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
