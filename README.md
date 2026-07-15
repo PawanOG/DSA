@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PawanOG/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0018-4sum](https://github.com/PawanOG/DSA/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PawanOG/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/PawanOG/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/PawanOG/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/PawanOG/DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PawanOG/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/PawanOG/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PawanOG/DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/PawanOG/DSA/tree/main/0092-reverse-linked-list-ii/) | Medium |
