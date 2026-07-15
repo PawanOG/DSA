@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/PawanOG/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/PawanOG/DSA/tree/main/1922-count-good-numbers/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/PawanOG/DSA/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PawanOG/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2947-count-beautiful-substrings-i](https://github.com/PawanOG/DSA/tree/main/2947-count-beautiful-substrings-i/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/PawanOG/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
