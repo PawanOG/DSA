@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/PawanOG/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/PawanOG/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0901-online-stock-span](https://github.com/PawanOG/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/PawanOG/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PawanOG/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Two Pointers
@@ -281,4 +282,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PawanOG/DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/PawanOG/DSA/tree/main/0901-online-stock-span/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/PawanOG/DSA/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/PawanOG/DSA/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
