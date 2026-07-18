@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PawanOG/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/PawanOG/DSA/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/PawanOG/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/PawanOG/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/PawanOG/DSA/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/PawanOG/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PawanOG/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PawanOG/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/PawanOG/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/PawanOG/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1929-concatenation-of-array](https://github.com/PawanOG/DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/PawanOG/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PawanOG/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
