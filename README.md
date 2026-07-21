@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/PawanOG/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/PawanOG/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/PawanOG/DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/PawanOG/DSA/tree/main/0853-car-fleet/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/PawanOG/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/PawanOG/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PawanOG/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/PawanOG/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/PawanOG/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/PawanOG/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0853-car-fleet](https://github.com/PawanOG/DSA/tree/main/0853-car-fleet/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PawanOG/DSA/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PawanOG/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Counting
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/PawanOG/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0682-baseball-game](https://github.com/PawanOG/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/PawanOG/DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/PawanOG/DSA/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/PawanOG/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/PawanOG/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PawanOG/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -317,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/PawanOG/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0739-daily-temperatures](https://github.com/PawanOG/DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/PawanOG/DSA/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/PawanOG/DSA/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PawanOG/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Data Stream
