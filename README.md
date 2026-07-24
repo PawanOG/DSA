@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/PawanOG/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/PawanOG/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/PawanOG/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0622-design-circular-queue](https://github.com/PawanOG/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/PawanOG/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/PawanOG/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/PawanOG/DSA/tree/main/0735-asteroid-collision/) | Medium |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/PawanOG/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/PawanOG/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/PawanOG/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0622-design-circular-queue](https://github.com/PawanOG/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/PawanOG/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/PawanOG/DSA/tree/main/0155-min-stack/) | Medium |
+| [0622-design-circular-queue](https://github.com/PawanOG/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0901-online-stock-span](https://github.com/PawanOG/DSA/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -333,4 +336,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/PawanOG/DSA/tree/main/0901-online-stock-span/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/PawanOG/DSA/tree/main/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->
