@@ -1,24 +1,19 @@
-import java.util.Arrays;
-
 class Solution {
     public int lastStoneWeight(int[] stones) {
+     
+     PriorityQueue<Integer> maxheap = new PriorityQueue<>(Collections.reverseOrder());
+     int k = stones.length;
 
-        int n = stones.length;
+     for(int stone:stones){
+       maxheap.offer(stone);
+     }
+     while(maxheap.size()>1){
+        int a = maxheap.poll();
+        int b = maxheap.poll();
+        
+        maxheap.offer(Math.abs(a-b));
+    }
+    return maxheap.peek();
 
-        while (n > 1) {
-            Arrays.sort(stones, 0, n);
-
-            int y = stones[n - 1]; // largest
-            int x = stones[n - 2]; // second largest
-
-            if (y == x) {
-                n -= 2; // both destroyed
-            } else {
-                stones[n - 2] = y - x; // replace second largest
-                n--; 
-            }
-        }
-
-        return n == 0 ? 0 : stones[0];
     }
 }
