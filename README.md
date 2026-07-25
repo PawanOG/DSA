@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/PawanOG/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/PawanOG/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/PawanOG/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PawanOG/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/PawanOG/DSA/tree/main/0155-min-stack/) | Medium |
 | [0622-design-circular-queue](https://github.com/PawanOG/DSA/tree/main/0622-design-circular-queue/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PawanOG/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/PawanOG/DSA/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -341,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PawanOG/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/PawanOG/DSA/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -350,4 +353,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PawanOG/DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PawanOG/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PawanOG/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/PawanOG/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
