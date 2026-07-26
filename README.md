@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/PawanOG/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/PawanOG/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0622-design-circular-queue](https://github.com/PawanOG/DSA/tree/main/0622-design-circular-queue/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/PawanOG/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/PawanOG/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/PawanOG/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/PawanOG/DSA/tree/main/0735-asteroid-collision/) | Medium |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/PawanOG/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/PawanOG/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/PawanOG/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/PawanOG/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/PawanOG/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0853-car-fleet](https://github.com/PawanOG/DSA/tree/main/0853-car-fleet/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PawanOG/DSA/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/PawanOG/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/PawanOG/DSA/tree/main/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/PawanOG/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/PawanOG/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PawanOG/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/PawanOG/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/PawanOG/DSA/tree/main/1922-count-good-numbers/) | Medium |
