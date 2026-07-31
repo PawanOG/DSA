@@ -1,3 +1,5 @@
+
+
 class NumArray {
 
     int[] prefix;
