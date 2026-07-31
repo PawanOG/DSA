@@ -1,5 +1,4 @@
 
-
 class NumMatrix {
 
     int[][] prefix;
