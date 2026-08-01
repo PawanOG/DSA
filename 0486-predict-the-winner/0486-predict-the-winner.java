@@ -22,6 +22,9 @@ class Solution {
         if (i == j)
             return nums[i];
 
+        //refer to  notes for this part 
+        //mainly we are choosing the worst possible conditions opponent left for us after his turn we taking minimun 
+
         int takeLeft = nums[i] +
                 Math.min(
                         solve(i + 2, j, nums),
