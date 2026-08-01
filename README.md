@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/PawanOG/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/PawanOG/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/PawanOG/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0486-predict-the-winner](https://github.com/PawanOG/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/PawanOG/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/PawanOG/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PawanOG/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/PawanOG/DSA/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PawanOG/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/PawanOG/DSA/tree/main/0202-happy-number/) | Easy |
+| [0486-predict-the-winner](https://github.com/PawanOG/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/PawanOG/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PawanOG/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/PawanOG/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/PawanOG/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/PawanOG/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/PawanOG/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0486-predict-the-winner](https://github.com/PawanOG/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/PawanOG/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PawanOG/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Recursion
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/PawanOG/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/PawanOG/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/PawanOG/DSA/tree/main/0394-decode-string/) | Medium |
+| [0486-predict-the-winner](https://github.com/PawanOG/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/PawanOG/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1922-count-good-numbers](https://github.com/PawanOG/DSA/tree/main/1922-count-good-numbers/) | Medium |
 ## Memoization
@@ -424,4 +428,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PawanOG/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/PawanOG/DSA/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
