@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/PawanOG/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/PawanOG/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/PawanOG/DSA/tree/main/0853-car-fleet/) | Medium |
+| [0877-stone-game](https://github.com/PawanOG/DSA/tree/main/0877-stone-game/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/PawanOG/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/PawanOG/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/PawanOG/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/PawanOG/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/PawanOG/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PawanOG/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/PawanOG/DSA/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/PawanOG/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PawanOG/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/PawanOG/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/PawanOG/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/PawanOG/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/PawanOG/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/PawanOG/DSA/tree/main/0877-stone-game/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PawanOG/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -432,4 +435,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/PawanOG/DSA/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/PawanOG/DSA/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
