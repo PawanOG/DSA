@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/PawanOG/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PawanOG/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/PawanOG/DSA/tree/main/1046-last-stone-weight/) | Easy |
+| [1094-car-pooling](https://github.com/PawanOG/DSA/tree/main/1094-car-pooling/) | Medium |
 | [1260-shift-2d-grid](https://github.com/PawanOG/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PawanOG/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PawanOG/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/PawanOG/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0853-car-fleet](https://github.com/PawanOG/DSA/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/PawanOG/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1094-car-pooling](https://github.com/PawanOG/DSA/tree/main/1094-car-pooling/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PawanOG/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1834-single-threaded-cpu](https://github.com/PawanOG/DSA/tree/main/1834-single-threaded-cpu/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PawanOG/DSA/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/PawanOG/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/PawanOG/DSA/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/PawanOG/DSA/tree/main/1046-last-stone-weight/) | Easy |
+| [1094-car-pooling](https://github.com/PawanOG/DSA/tree/main/1094-car-pooling/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PawanOG/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1834-single-threaded-cpu](https://github.com/PawanOG/DSA/tree/main/1834-single-threaded-cpu/) | Medium |
 ## Bucket Sort
@@ -305,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/PawanOG/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/PawanOG/DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/PawanOG/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1094-car-pooling](https://github.com/PawanOG/DSA/tree/main/1094-car-pooling/) | Medium |
 | [2947-count-beautiful-substrings-i](https://github.com/PawanOG/DSA/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -357,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/PawanOG/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0682-baseball-game](https://github.com/PawanOG/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/PawanOG/DSA/tree/main/0735-asteroid-collision/) | Medium |
+| [1094-car-pooling](https://github.com/PawanOG/DSA/tree/main/1094-car-pooling/) | Medium |
 | [1260-shift-2d-grid](https://github.com/PawanOG/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1929-concatenation-of-array](https://github.com/PawanOG/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/PawanOG/DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
