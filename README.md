@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/PawanOG/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PawanOG/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/PawanOG/DSA/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PawanOG/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PawanOG/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PawanOG/DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/PawanOG/DSA/tree/main/0169-majority-element/) | Easy |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/PawanOG/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/PawanOG/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/PawanOG/DSA/tree/main/0118-pascals-triangle/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PawanOG/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/PawanOG/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/PawanOG/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/PawanOG/DSA/tree/main/0509-fibonacci-number/) | Easy |
