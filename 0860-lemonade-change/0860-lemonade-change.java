@@ -1,39 +1,41 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
 
-        //taking an array where index 0 denotes number of 5 dollar bills
-        // idx 1 denotes no. of 10 dollar bills
+        int five = 0;
+        int ten = 0;
 
-        int[] change = new int[2];
+        for (int bill : bills) {
 
-        for(int i = 0;i<bills.length;i++){
-            if(bills[i]==5){
-                change[0]++;
-            }else if(bills[i]==10){
-                change[0]--;
-                change[1]++;
-                if(change[0]<0){
-            return false;
-        }
-            }else{
-                if(change[1]!=0){
-                    change[1]--;
-                    change[0]--;
-                    if(change[0]<0){
-            return false;
-        }
-                }else{
-                    change[0]--;
-                    change[0]--;
-                    change[0]--;
-                    if(change[0]<0){
-            return false;
-        }
+            if (bill == 5) {
+                five++;
+            }
+
+            else if (bill == 10) {
+                if (five == 0) {
+                    return false;
+                }
+                five--;
+                ten++;
+            }
+
+            else { // bill == 20
+
+                
+                if (ten > 0 && five > 0) {
+                    ten--;
+                    five--;
+                }
+                
+                else if (five >= 3) {
+                    five -= 3;
+                }
+               
+                else {
+                    return false;
                 }
             }
         }
 
         return true;
-        
     }
 }
