@@ -1,3 +1,5 @@
+
+
 class Solution {
     int[] dp;
 
@@ -5,6 +7,8 @@ class Solution {
 
         int n = cost.length;
         dp = new int[n];
+
+        //in many questions 0 sometimes can be part of answer so we cant keep 0 as not computed in many dp arrays so here weare keeping -1
          Arrays.fill(dp, -1);
 
 
@@ -20,7 +24,8 @@ class Solution {
         if (i <= 1) {
             return 0;
         }
-
+        
+        //0's are part of answer in some test cases of dp so we cant assume 0 as not computed so keeping -1 inplace of 0
         if (dp[i] != -1) {
             return dp[i];
         }
