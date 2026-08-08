@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PawanOG/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PawanOG/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/PawanOG/DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/PawanOG/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1528-shuffle-string](https://github.com/PawanOG/DSA/tree/main/1528-shuffle-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PawanOG/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/PawanOG/DSA/tree/main/1773-count-items-matching-a-rule/) | Easy |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/PawanOG/DSA/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/PawanOG/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/PawanOG/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/PawanOG/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/PawanOG/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PawanOG/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Recursion
@@ -505,4 +507,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/PawanOG/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/PawanOG/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
