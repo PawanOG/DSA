@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/PawanOG/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/PawanOG/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/PawanOG/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/PawanOG/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PawanOG/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/PawanOG/DSA/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/PawanOG/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -476,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PawanOG/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/PawanOG/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/PawanOG/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PawanOG/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -486,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PawanOG/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/PawanOG/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/PawanOG/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PawanOG/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -515,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PawanOG/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/PawanOG/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/PawanOG/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/PawanOG/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
