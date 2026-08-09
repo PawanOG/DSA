@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/PawanOG/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/PawanOG/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/PawanOG/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/PawanOG/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PawanOG/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PawanOG/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/PawanOG/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PawanOG/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PawanOG/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/PawanOG/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PawanOG/DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Geometry
@@ -510,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PawanOG/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/PawanOG/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/PawanOG/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
