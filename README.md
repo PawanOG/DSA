@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2947-count-beautiful-substrings-i](https://github.com/PawanOG/DSA/tree/main/2947-count-beautiful-substrings-i/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PawanOG/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PawanOG/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PawanOG/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PawanOG/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PawanOG/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PawanOG/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/PawanOG/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/PawanOG/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/PawanOG/DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PawanOG/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PawanOG/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/PawanOG/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PawanOG/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PawanOG/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PawanOG/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PawanOG/DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
@@ -283,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/PawanOG/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/PawanOG/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/PawanOG/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PawanOG/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PawanOG/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
