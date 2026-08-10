@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/PawanOG/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PawanOG/DSA/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1406-stone-game-iii](https://github.com/PawanOG/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/PawanOG/DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/PawanOG/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/PawanOG/DSA/tree/main/1922-count-good-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PawanOG/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/PawanOG/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/PawanOG/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/PawanOG/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/PawanOG/DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PawanOG/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PawanOG/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Recursion
@@ -509,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/PawanOG/DSA/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/PawanOG/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/PawanOG/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/PawanOG/DSA/tree/main/1510-stone-game-iv/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -536,8 +539,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/PawanOG/DSA/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/PawanOG/DSA/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/PawanOG/DSA/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/PawanOG/DSA/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/PawanOG/DSA/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/PawanOG/DSA/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
