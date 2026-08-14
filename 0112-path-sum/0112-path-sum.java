@@ -13,6 +13,8 @@
  *     }
  * }
  */
+
+ 
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
         return solve(root,0,targetSum);
