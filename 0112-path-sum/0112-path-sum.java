@@ -14,34 +14,30 @@
  * }
  */
 
- 
+
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        return solve(root,0,targetSum);
-    }
 
-    public boolean solve(TreeNode root,int currsum,int targetsum){
-
-        if(root==null){
+        if (root == null) {
             return false;
         }
 
-        currsum += root.val;
-
-        if(root.left == null && root.right == null){
-            //we have reached the end leaf and now we will check whether currsum is equal to tsrgetsum or not if it is it will return true else false
-             return currsum ==  targetsum;
+       
+        if (root.left == null && root.right == null) {
+            return root.val == targetSum;
         }
 
-        if(solve(root.left,currsum,targetsum)){
+        int remainingSum = targetSum - root.val;
+
+    
+        if (hasPathSum(root.left, remainingSum)) {
             return true;
         }
 
-        if(solve(root.right,currsum,targetsum)){
+        if (hasPathSum(root.right, remainingSum)) {
             return true;
         }
 
         return false;
-
     }
 }
