@@ -13,6 +13,8 @@
  *     }
  * }
  */
+
+ 
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
 
@@ -21,8 +23,6 @@ class Solution {
         if(root==null){
             return ans;
         }
-
-
         Queue<TreeNode> q = new LinkedList<>();
 
         q.add(root);
