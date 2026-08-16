@@ -11,24 +11,18 @@
 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if(root == null){
-           return null;
-        }
 
-        if(root == p || root == q){
+        if (root == null || root == p || root == q) {
             return root;
         }
 
-        TreeNode leftN = lowestCommonAncestor(root.left ,p , q);
-        TreeNode rightN = lowestCommonAncestor(root.right , p, q);
+        TreeNode left = lowestCommonAncestor(root.left, p, q);
+        TreeNode right = lowestCommonAncestor(root.right, p, q);
 
-        if(leftN != null && rightN != null){
+        if (left != null && right != null) {
             return root;
         }
 
-        if(leftN!= null){
-            return leftN;
-        }
-        return rightN;
+        return left != null ? left : right;
     }
 }
