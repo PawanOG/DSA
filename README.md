@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1834-single-threaded-cpu](https://github.com/PawanOG/DSA/tree/main/1834-single-threaded-cpu/) | Medium |
 | [1929-concatenation-of-array](https://github.com/PawanOG/DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PawanOG/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PawanOG/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/PawanOG/DSA/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PawanOG/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PawanOG/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/PawanOG/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PawanOG/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/PawanOG/DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PawanOG/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PawanOG/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PawanOG/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PawanOG/DSA/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
