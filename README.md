@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/PawanOG/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/PawanOG/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/PawanOG/DSA/tree/main/0647-palindromic-substrings/) | Medium |
+| [0649-dota2-senate](https://github.com/PawanOG/DSA/tree/main/0649-dota2-senate/) | Medium |
 | [0796-rotate-string](https://github.com/PawanOG/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/PawanOG/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PawanOG/DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/PawanOG/DSA/tree/main/0134-gas-station/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/PawanOG/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/PawanOG/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0649-dota2-senate](https://github.com/PawanOG/DSA/tree/main/0649-dota2-senate/) | Medium |
 | [0860-lemonade-change](https://github.com/PawanOG/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/PawanOG/DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PawanOG/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -496,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/PawanOG/DSA/tree/main/0622-design-circular-queue/) | Medium |
+| [0649-dota2-senate](https://github.com/PawanOG/DSA/tree/main/0649-dota2-senate/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/PawanOG/DSA/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
