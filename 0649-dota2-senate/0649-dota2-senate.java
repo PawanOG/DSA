@@ -1,5 +1,6 @@
-class Solution {
 
+
+class Solution {
     int n;
 
     void removeSenator(String senate, boolean[] removed, char ch, int idx) {
