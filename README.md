@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/PawanOG/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/PawanOG/DSA/tree/main/0055-jump-game/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/PawanOG/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/PawanOG/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/PawanOG/DSA/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/PawanOG/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PawanOG/DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/PawanOG/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/PawanOG/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/PawanOG/DSA/tree/main/0055-jump-game/) | Medium |
+| [0064-minimum-path-sum](https://github.com/PawanOG/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/PawanOG/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/PawanOG/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PawanOG/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/PawanOG/DSA/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/PawanOG/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/PawanOG/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/PawanOG/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1260-shift-2d-grid](https://github.com/PawanOG/DSA/tree/main/1260-shift-2d-grid/) | Easy |
