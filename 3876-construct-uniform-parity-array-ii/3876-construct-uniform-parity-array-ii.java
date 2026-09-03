@@ -1,27 +1,23 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        int evens = 0;
-        int odds = 0;
         int min = Integer.MAX_VALUE;
-        for(int val : nums1){
-            min = Math.min(min,val);
-            if(val%2==0){
-                evens++;
-            }else{
-                odds++;
+        boolean hasOdd = false;
+        boolean hasEven = false;
+
+        for (int val : nums1) {
+            min = Math.min(min, val);
+
+            if (val % 2 == 0) {
+                hasEven = true;
+            } else {
+                hasOdd = true;
             }
-        } 
-        if(evens == nums1.length){
-            return true;
-        }
-        if(odds == nums1.length){
-            return true;
-        }
-        if(min%2==0){
-           return false;
-        }else{
-           return true;
         }
 
+        if (!hasOdd || !hasEven) {
+            return true;
+        }
+
+        return min % 2 != 0;
     }
 }
