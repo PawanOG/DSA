@@ -1,5 +1,3 @@
-
-
 class Solution {
     public boolean uniformArray(int[] nums1) {
         int evens = 0;
