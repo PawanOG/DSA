@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/PawanOG/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/PawanOG/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/PawanOG/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0561-array-partition](https://github.com/PawanOG/DSA/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/PawanOG/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0622-design-circular-queue](https://github.com/PawanOG/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/PawanOG/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/PawanOG/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/PawanOG/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/PawanOG/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/PawanOG/DSA/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PawanOG/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/PawanOG/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0853-car-fleet](https://github.com/PawanOG/DSA/tree/main/0853-car-fleet/) | Medium |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/PawanOG/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/PawanOG/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/PawanOG/DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/PawanOG/DSA/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/PawanOG/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/PawanOG/DSA/tree/main/0649-dota2-senate/) | Medium |
 | [0860-lemonade-change](https://github.com/PawanOG/DSA/tree/main/0860-lemonade-change/) | Easy |
@@ -588,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/PawanOG/DSA/tree/main/0561-array-partition/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PawanOG/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
