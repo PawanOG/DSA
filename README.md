@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/PawanOG/DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/PawanOG/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/PawanOG/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/PawanOG/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/PawanOG/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/PawanOG/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/PawanOG/DSA/tree/main/0622-design-circular-queue/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/PawanOG/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/PawanOG/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/PawanOG/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0455-assign-cookies](https://github.com/PawanOG/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/PawanOG/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/PawanOG/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0853-car-fleet](https://github.com/PawanOG/DSA/tree/main/0853-car-fleet/) | Medium |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/PawanOG/DSA/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/PawanOG/DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/PawanOG/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0455-assign-cookies](https://github.com/PawanOG/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/PawanOG/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/PawanOG/DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/PawanOG/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -283,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/PawanOG/DSA/tree/main/0134-gas-station/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/PawanOG/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/PawanOG/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/PawanOG/DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0649-dota2-senate](https://github.com/PawanOG/DSA/tree/main/0649-dota2-senate/) | Medium |
 | [0860-lemonade-change](https://github.com/PawanOG/DSA/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/PawanOG/DSA/tree/main/0881-boats-to-save-people/) | Medium |
@@ -678,4 +682,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/PawanOG/DSA/tree/main/0881-boats-to-save-people/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/PawanOG/DSA/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
