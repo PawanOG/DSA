@@ -1,20 +1,10 @@
 class Solution:
     def findContentChildren(self, g: List[int], s: List[int]) -> int:
+        
+        g.sort()  
         s.sort()
-        g.sort()
-
-        count  = 0
-        i  = 0
-        j = 0
-
-        while(i<len(g) and j<len(s)):
-            if g[i]<=s[j]:
-               count+=1
-               i+=1
-               j+=1
-            else:
-               j+=1
-        
-        return count
-
-        
+        index = 0
+        for i in range(len(s)):  
+            if index < len(g) and g[index] <= s[i]:  
+                index += 1  
+        return index      
