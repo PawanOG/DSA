@@ -741,4 +741,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PawanOG/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/PawanOG/DSA/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
