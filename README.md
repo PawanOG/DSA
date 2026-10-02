@@ -670,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PawanOG/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PawanOG/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/PawanOG/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/PawanOG/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/PawanOG/DSA/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PawanOG/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PawanOG/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -685,11 +686,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/PawanOG/DSA/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/PawanOG/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/PawanOG/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/PawanOG/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PawanOG/DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/PawanOG/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/PawanOG/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/PawanOG/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
@@ -741,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PawanOG/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0547-number-of-provinces](https://github.com/PawanOG/DSA/tree/main/0547-number-of-provinces/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
