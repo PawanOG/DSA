@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/PawanOG/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/PawanOG/DSA/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/PawanOG/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0704-binary-search](https://github.com/PawanOG/DSA/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/PawanOG/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/PawanOG/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/PawanOG/DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PawanOG/DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/PawanOG/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/PawanOG/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0704-binary-search](https://github.com/PawanOG/DSA/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/PawanOG/DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PawanOG/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PawanOG/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
